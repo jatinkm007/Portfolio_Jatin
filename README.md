@@ -8,7 +8,7 @@ A modern and responsive developer portfolio built using **React**, **Vite**, and
 
 ## ✨ Features
 
-- Responsive design for all devices
+- Responsive design for all devices   
 - Modern and clean UI
 - Smooth scrolling navigation
 - Projects showcase
