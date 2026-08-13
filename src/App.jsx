@@ -9,7 +9,6 @@ import Projects from './components/sections/Projects'
 import Services from './components/sections/Services'
 import Contact from './components/sections/Contact'
 import Footer from './components/layout/Footer'
-import { Analytics } from "@vercel/analytics/next"
 
 const App = () => {
   return (
