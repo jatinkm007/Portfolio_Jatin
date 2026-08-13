@@ -4,7 +4,7 @@ A modern and responsive developer portfolio built using **React**, **Vite**, and
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** https://protfolio-jatin.vercel.app/
+🔗 **[Portfolio](https://protfolio-jatin.vercel.app/)**
 
 ## ✨ Features
 
