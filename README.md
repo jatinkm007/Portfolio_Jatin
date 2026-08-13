@@ -1,5 +1,5 @@
 # 🌐 Personal Portfolio
-
+  
 A modern and responsive developer portfolio built using **React**, **Vite**, and **Tailwind CSS**. This portfolio showcases my projects, technical skills, and contact information in a clean and interactive interface.
 
 ## 🚀 Live Demo
@@ -8,7 +8,7 @@ A modern and responsive developer portfolio built using **React**, **Vite**, and
 
 ## ✨ Features
 
-- Responsive design for all devices
+- Responsive design for all devices   
 - Modern and clean UI
 - Smooth scrolling navigation
 - Projects showcase
